@@ -571,7 +571,7 @@ export default function LandingPage() {
             </Button>
             <Button
               size="lg"
-              variant="outline"
+              variant="secondary"
               className="text-base md:text-lg border-primary-foreground"
               onClick={() => router.push("/register")}
             >
